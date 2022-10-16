@@ -1,6 +1,7 @@
-//Sarfraz soomro
-//Question2
-//even & odd
+//Rizwan jamali
+//2k22/CSE/85
+//Question 2
+
 
 
 
