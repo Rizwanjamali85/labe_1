@@ -1,6 +1,6 @@
-//Sarfraz soomro
+//Rizwan jamali
+//2k22/CSE/85
 //Question 4
-// How to find cpn
 
 
 
