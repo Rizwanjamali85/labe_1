@@ -1,4 +1,5 @@
-//Sarfraz ali soomro
+//Rizwan jamali
+//2k22/CSE/85
 //Question 1
 
 
