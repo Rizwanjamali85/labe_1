@@ -1,6 +1,6 @@
-//Sarfraz ali
-//question 3
-//operators
+//Rizwan jamali
+//2k22/CSE/85
+//Question 3
 
 
 
